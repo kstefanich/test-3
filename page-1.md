@@ -1,6 +1,6 @@
-# Page 1
+# Why Rymedi?
 
-testing
+Because we are awesome!
 
 ```
 //come code
